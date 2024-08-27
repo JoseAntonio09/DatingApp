@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f4ee88ac-37ee-4a2f-8b89-81a34fb57855": {
+      "ProjectGuid": "f4ee88ac-37ee-4a2f-8b89-81a34fb57855",
+      "DisplayName": "ApiPeliculas",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

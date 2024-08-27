@@ -1,0 +1,15 @@
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\bin\Debug\net6.0\NetCoreEjercices.exe
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\bin\Debug\net6.0\NetCoreEjercices.deps.json
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\bin\Debug\net6.0\NetCoreEjercices.runtimeconfig.json
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\bin\Debug\net6.0\NetCoreEjercices.dll
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\bin\Debug\net6.0\ref\NetCoreEjercices.dll
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\bin\Debug\net6.0\NetCoreEjercices.pdb
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\obj\Debug\net6.0\NetCoreEjercices.csproj.AssemblyReference.cache
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\obj\Debug\net6.0\NetCoreEjercices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\obj\Debug\net6.0\NetCoreEjercices.AssemblyInfoInputs.cache
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\obj\Debug\net6.0\NetCoreEjercices.AssemblyInfo.cs
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\obj\Debug\net6.0\NetCoreEjercices.csproj.CoreCompileInputs.cache
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\obj\Debug\net6.0\NetCoreEjercices.dll
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\obj\Debug\net6.0\ref\NetCoreEjercices.dll
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\obj\Debug\net6.0\NetCoreEjercices.pdb
+C:\Users\Jose Antonio\Source\repos\NetCoreEjercices\NetCoreEjercices\obj\Debug\net6.0\NetCoreEjercices.genruntimeconfig.cache
